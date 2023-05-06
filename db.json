@@ -1,4 +1,52 @@
-{
-  "id": 1,
-  "title": "hello"
-}
+[
+    {
+        "marca":,
+        "descripcion":,
+        "precio":
+    },
+    {
+        "marca":,
+        "descripcion":,
+        "precio":
+    },
+    {
+        "marca":,
+        "descripcion":,
+        "precio":
+    },
+    {
+        "marca":,
+        "descripcion":,
+        "precio":
+    },
+    {
+        "marca":,
+        "descripcion":,
+        "precio":
+    },
+    {
+        "marca":,
+        "descripcion":,
+        "precio":
+    },
+    {
+        "marca":,
+        "descripcion":,
+        "precio":
+    },
+    {
+        "marca":,
+        "descripcion":,
+        "precio":
+    },
+    {
+        "marca":,
+        "descripcion":,
+        "precio":
+    },
+    {
+        "marca":,
+        "descripcion":,
+        "precio":
+    },
+]
