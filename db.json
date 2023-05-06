@@ -1,55 +1,39 @@
 {
     "productos":[
-    {
-        "marca":1,
-        "descripcion":,
-        "precio":
-    },
-    {
-        "marca":2,
-        "descripcion":,
-        "precio":
-    },
-    {
-        "marca":3,
-        "descripcion":,
-        "precio":
-    },
-    {
-        "marca":4,
-        "descripcion":,
-        "precio":
-    },
-    {
-        "marca":5,
-        "descripcion":,
-        "precio":
-    },
-    {
-        "marca":6,
-        "descripcion":,
-        "precio":
-    },
-    {
-        "marca":7,
-        "descripcion":,
-        "precio":
-    },
-    {
-        "marca":8,
-        "descripcion":,
-        "precio":
-    },
-    {
-        "marca":9,
-        "descripcion":,
-        "precio":
-    },
-    {
-        "marca":10,
-        "descripcion":,
-        "precio":
-    },
-
-]
+        {
+            "id": 1,
+            "nombre":"stanley",
+            "descripcion":"Herramienta Electrónica"
+        },
+        {
+            "id": 2,
+            "nombre":"stanley",
+            "descripcion":"Herramienta Electrónica"
+        },
+        {
+            "id": 3,
+            "nombre":"stanley",
+            "descripcion":"Herramienta Electrónica"
+        },
+        {
+            "id": 4,
+            "nombre":"stanley",
+            "descripcion":"Herramienta Electrónica"
+        },
+        {
+            "id": 5,
+            "nombre":"stanley",
+            "descripcion":"Herramienta Electrónica"
+        },
+        {
+            "id": 6,
+            "nombre":"stanley",
+            "descripcion":"Herramienta Electrónica"
+        },
+        {
+            "id": 7,
+            "nombre":"stanley",
+            "descripcion":"Herramienta Electrónica"
+        }
+    ]
 }
