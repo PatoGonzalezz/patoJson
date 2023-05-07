@@ -2,38 +2,38 @@
     "productos":[
         {
             "id": 1,
-            "nombre":"stanley",
-            "descripcion":"Herramienta Electrónica"
+            "nombre":"PiroGrabador y soldadura",
+            "descripcion":"Accesorio"
         },
         {
             "id": 2,
-            "nombre":"stanley",
-            "descripcion":"Herramienta Electrónica"
+            "nombre":"Maletín con 48 piezas",
+            "descripcion":"Accesorio"
         },
         {
             "id": 3,
-            "nombre":"stanley",
-            "descripcion":"Herramienta Electrónica"
+            "nombre":"Maleta accesorios 100 piezas",
+            "descripcion":"Accesorio"
         },
         {
             "id": 4,
-            "nombre":"stanley",
-            "descripcion":"Herramienta Electrónica"
+            "nombre":"Set de brocas 31 unidades",
+            "descripcion":"Accesorio"
         },
         {
             "id": 5,
-            "nombre":"stanley",
-            "descripcion":"Herramienta Electrónica"
+            "nombre":"Maletín X Line con 34 piezas",
+            "descripcion":"Accesorio"
         },
         {
             "id": 6,
-            "nombre":"stanley",
-            "descripcion":"Herramienta Electrónica"
+            "nombre":"13 Brocas HSS Titanio Toma Hexagonal",
+            "descripcion":"Accesorio"
         },
         {
             "id": 7,
             "nombre":"stanley",
-            "descripcion":"Herramienta Electrónica"
+            "descripcion":"Accesorio"
         }
     ]
 }
