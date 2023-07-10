@@ -2,38 +2,38 @@
     "productos":[
         {
             "id": 1,
-            "nombre":"PiroGrabador y soldadura",
-            "descripcion":"El Pirograbador Soldadora a Gas Butano Dremel VersaTip viene con distintas puntas, permite realizar pirograbados, soldar, cortes térmicos, remoción de residuos, todo en distintos materiales. Con su diseño práctico en formato de bolígrafo, es posible trabajar con comodidad, precisión y facilidad hasta en lugares más pequeños. Inalámbrico y con funcionamiento a gas butano, permite que trabajes en cualquier lugar."
+            "nombre":"Bosch",
+            "descripcion":"Bosch o Robert Bosch GmbH es una compañía multinacional de ingeniería y tecnología con oficinas centrales en Stuttgart, Alemania. La compañía fue fundada por Robert Bosch en 1886.​ El 92% de las acciones de la compañía son propiedad de la organización sin fines de lucro Robert Bosch Stiftung GmbH."
         },
         {
             "id": 2,
-            "nombre":"Maletín con 48 piezas",
-            "descripcion":"Accesorio"
+            "nombre":"Bellota",
+            "descripcion":"En Bellota fabricamos productos inspirados en tu actitud, en tu pasión y determinación por conseguir todo aquello que quieres. Te acompañamos en el camino hacia el éxito con herramientas que nunca te fallan, con las que disfrutas y das lo mejor de ti."
         },
         {
             "id": 3,
-            "nombre":"Maleta accesorios 100 piezas",
-            "descripcion":"Accesorio"
+            "nombre":"Stanley",
+            "descripcion":"En STANLEY® diseñamos y fabricamos herramientas resistentes y confiables para que en cada proyecto puedas hacer tu mejor obra sin importar el desafío. "
         },
         {
             "id": 4,
-            "nombre":"Set de brocas 31 unidades",
-            "descripcion":"Accesorio"
+            "nombre":"Telwin",
+            "descripcion":"Desde 1963 protagonista del mercado, con una importante presencia en los cinco continentes. Soldadura al arco, punto o plasma. Del aprendiz al profesional, desde el especialista al usuario industrial, TELWIN ha creado una gama de productos inigualables, tanto en variedad como en estándares de calidad."
         },
         {
             "id": 5,
-            "nombre":"Maletín X Line con 34 piezas",
-            "descripcion":"Accesorio"
+            "nombre":"Honda",
+            "descripcion":"Cuando diseñamos nuestra gama de productos miramos la vida desde todos los ángulos. Lo que aprendemos de todo aquello que hacemos va directo al desarrollo de nuestra gama de maquinaria, la cual cosa nos permite crear nuevas tecnologías y originales formas de resolver problemas. No nos conformamos con que sean las mejores máquinas, sino que también tiene que ser un placer utilizarlas y un orgullo tenerlas."
         },
         {
             "id": 6,
-            "nombre":"13 Brocas HSS Titanio Toma Hexagonal",
-            "descripcion":"Accesorio"
+            "nombre":"Inhersa",
+            "descripcion":"Inhersa es un fabricante nacional muy reconocido por la calidad de sus hormigoneras, ya que nos ofrece una amplia gama de hormigoneras profesionales que se caracterizan por ofrecer un excelente rendimiento y una alta durabilidad. Comprar una hormigonera Inhersa significa disponer de hormigonera por muchos años."
         },
         {
             "id": 7,
-            "nombre":"PiroGrabador y soldadura",
-            "descripcion":"El Pirograbador Soldadora a Gas Butano Dremel VersaTip viene con distintas puntas, permite realizar pirograbados, soldar, cortes térmicos, remoción de residuos, todo en distintos materiales. Con su diseño práctico en formato de bolígrafo, es posible trabajar con comodidad, precisión y facilidad hasta en lugares más pequeños. Inalámbrico y con funcionamiento a gas butano, permite que trabajes en cualquier lugar."
+            "nombre":"Rubi",
+            "descripcion":"Germans Boada es una empresa catalana de carácter familiar, fundada en 1951, que es fiel a unos orígenes y una identidad propia y trabaja para preservar un valioso legado empresarial y entre todos construir un futuro mejor."
         }
     ]
 }
